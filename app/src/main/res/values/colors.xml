@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color1">#b0a69c</color>
+    <color name="color2">#ecab88</color>
+    <color name="color3">#5c9db9</color>
+    <color name="color4">#59717c</color>
+
+    <!-- navbar -->
+    <color name="navbarUtama">#795548</color>
+    <color name="navbarDark">#5d4037</color>
+    <color name="navbarWhite">#ffffff</color>
+    <color name="navbarGray">#6c6c6c</color>
+
+</resources>
